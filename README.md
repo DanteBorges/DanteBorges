@@ -7,8 +7,6 @@
 
 - 👔 Currently working at <a href="https://lecode.dev/">LeCode</a>
 
-- 📚 Studying React and VueJS
-
 - 🏛 Montes Claros/Brasil
 
 
