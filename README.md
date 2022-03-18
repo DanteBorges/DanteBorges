@@ -5,8 +5,6 @@
 
 - 👩‍💻 Front-end developer
 
-- 👔 Currently working at <a href="https://lecode.dev/">LeCode</a>
-
 - 🏛 Montes Claros/Brasil
 
 
