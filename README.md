@@ -3,7 +3,7 @@
 ##
 - 👦 23 years old
 
-- 👩‍💻 front-end developer by <a href="https://estudiohaus.com/" target="_blank">Estudio Haus</a>
+- 👩‍💻 front-end developer by <a href="https://estudiohaus.com/" target="_blank">Haus</a>
 
 - 🏛 Montes Claros/Brasil
 
