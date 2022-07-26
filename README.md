@@ -8,11 +8,11 @@ I'm a software web developer focused on JavaScript and its technologies.
 
 - 👩‍💻 front-end developer by <a href="https://estudiohaus.com/" target="_blank">Haus</a>
 
-- 📗  Currently studying the Javascript language and its various uses
+- 📗 Currently studying the Javascript language and its various uses
 
 - 🏛 Student of Information Systems at the State College of Montes Claros (Unimontes)
 
-- 💻 visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Linkedin</a>
+- 💻 Visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Linkedin</a>
 
 <div>
   <a href="https://github.com/DanteBorges">
