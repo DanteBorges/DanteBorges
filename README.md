@@ -12,7 +12,7 @@ I'm a software web developer focused on JavaScript and its technologies.
 
 - 🏛 Student of Information Systems at the State College of Montes Claros (Unimontes)
 
-- 🏛 visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Linkedin</a>
+- 💻 visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Linkedin</a>
 
 <div>
   <a href="https://github.com/DanteBorges">
