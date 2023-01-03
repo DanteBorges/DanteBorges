@@ -4,7 +4,7 @@
 
 I'm a software web developer focused on JavaScript and its technologies.
 
-- 👦 23 years old
+- 👦 24 years old
 
 - 👩‍💻 front-end developer by <a href="https://estudiohaus.com/" target="_blank">Haus</a>
 
