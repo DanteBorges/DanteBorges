@@ -10,7 +10,9 @@ I'm a software web developer focused on JavaScript and its technologies.
 
 - 🏛 Student of Information Systems at the State College of Montes Claros (Unimontes)
 
-- 💻 Visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Linkedin</a>
+- 🤖 Visit my <a href="https://www.linkedin.com/in/daniel-fborges/" target="_blank">Portífolio</a>
+
+- 💻 Visit my <a href="https://portifolio-beryl-pi.vercel.app/" target="_blank">Linkedin</a>
 
 <div style="display: inline_block"><br>
   <div align="center">
